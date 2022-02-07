@@ -1,5 +1,5 @@
 # Desafio-RocketShoes
-## Desafio da Rocketseat para desenvolver um mini e-commerce de calçados esportivos.
+## Desafio da Rocketseat - desenvolver um mini e-commerce de calçados esportivos.
 <p>
   Feito apenas para resolução 1440x1080.
   </p>
